@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/saing/Downloads/Learn/github/openGL01",
-      "program": "c:/Users/saing/Downloads/Learn/github/openGL01/build/Debug/outDebug",
+      "cwd": "c:/Users/saing/Downloads/Learn/github/OPENGL/openGL01/src",
+      "program": "c:/Users/saing/Downloads/Learn/github/OPENGL/openGL01/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
