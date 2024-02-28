@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\include\\glad",
+    "\\include\\GLFW",
+    "\\lib",
+    "\\src",
+    "\\src\\build",
+    "\\src\\build\\Debug"
+  ],
+  "SelectedNode": "\\lib\\libglfw3dll.a",
+  "PreviewInSolutionExplorer": false
+}

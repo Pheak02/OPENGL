@@ -14,7 +14,7 @@
                 "src/glad.c",
                 "-lglfw3dll",
                 "-o",
-                "${workspaceFolder}/myprogram.exe"
+                "${workspaceFolder}/sopheakOpenGL.exe"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
