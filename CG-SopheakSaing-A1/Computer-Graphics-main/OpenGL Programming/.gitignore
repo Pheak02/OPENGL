@@ -1,0 +1,6 @@
+/output
+/build
+/lib
+/include
+.vscode
+/mingw32
